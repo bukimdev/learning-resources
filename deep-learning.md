@@ -9,3 +9,7 @@ CSC 321 Introduction to Neural Networks and Machine Learning, University of Toro
 
 ### MOOCs
 * [Neural Networks for Machine Learning@Courera, Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
+
+
+### Benchmark
+* [What is the class of this image?](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)
