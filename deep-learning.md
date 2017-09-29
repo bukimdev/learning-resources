@@ -22,6 +22,12 @@ CSC 321 Introduction to Neural Networks and Machine Learning
 
 
 
+### Guide
+
+* [How do I learn machine learning?](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Prasoon-Goyal)
+
+
+
 
 ### MOOCs
 * [Neural Networks for Machine Learning@Courera, Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
@@ -37,3 +43,6 @@ CSC 321 Introduction to Neural Networks and Machine Learning
 ### Benchmark and Dataset
 * [What is the class of this image?](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)
 * [ImageNet](http://www.image-net.org/)
+
+
+
