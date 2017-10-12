@@ -20,19 +20,13 @@ CSC 321 Introduction to Neural Networks and Machine Learning
 -[ ] 시즌 1: 모두를 위한 머신러닝/딥러닝 강의(https://hunkim.github.io/ml/)
 
 
-
-
 ### Guide
 
 * [How do I learn machine learning?](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Prasoon-Goyal)
 
 
-
-
 ### MOOCs
 * [Neural Networks for Machine Learning@Courera, Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)
-
-
 
 
 
@@ -45,4 +39,5 @@ CSC 321 Introduction to Neural Networks and Machine Learning
 * [ImageNet](http://www.image-net.org/)
 
 
+## 
 
